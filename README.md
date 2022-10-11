@@ -1,7 +1,7 @@
 # ionic-sqlite-contacts
 
 My verison of an [Ionic](https://ionicframework.com/) [SQLite](https://www.sqlite.org/index.html) contact manager 
-built using [Vue](https://vuejs.org/),  based on a tutorial by 
+built using [Vue](https://vuejs.org/), based on a tutorial by 
 [Aaron Saunders](https://www.youtube.com/c/AaronSaundersCI).
 
 This project also uses the [Capacitor Community SQLite Plugin](https://github.com/capacitor-community/sqlite) as well 
